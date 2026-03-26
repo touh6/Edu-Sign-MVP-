@@ -17,7 +17,7 @@ How I Built It:
 a) MIT App Inventor: Used for rapid prototyping and development
 - Speech Recognizer: Converts spoken input into text
 - Player Component: Automatically plays GIFs representing common phrases in sign language
-- UI Design: Crafted with clean color palettes, welcoming screens, and simple navigation between components
+- UI Design: Easy to access welcoming screens and simple navigation between components
 - GIFs: Curated set of sign language animations in ASL
 
 
